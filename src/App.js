@@ -1,7 +1,6 @@
 import './App.css';
 import MyView from './views/MyView';
 
-
 function App() {
   return (
     <div className="App">
@@ -11,6 +10,5 @@ function App() {
     </div>
   );
 }
-
 
 export default App;

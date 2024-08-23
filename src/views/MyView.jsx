@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import MyComponent from '../components/MyComponent';
 
-
 const MyView = () => {
     let [viewState, setViewState] = useState('');
 
@@ -17,6 +16,5 @@ const MyView = () => {
         </div>
     );
 };
-
 
 export default MyView;

@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 
-
 const MyComponent = () => {
     let [componentState, setComponentState] = useState('');
 
@@ -13,6 +12,5 @@ const MyComponent = () => {
         </div>
     );
 };
-
 
 export default MyComponent;
