@@ -1,4 +1,3 @@
-import './App.css';
 import MyView from './views/MyView';
 
 function App() {
